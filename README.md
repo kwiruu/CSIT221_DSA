@@ -1,10 +1,10 @@
-# Welcome to the CSIT221 Data Structure and Algorithms Playground! 🚀
+# Welcome to my CSIT221 Data Structure and Algorithms Repository! 🚀
 
 Greetings, fellow tech explorer! 🌟 You've just landed in the exciting world of data structures and algorithms at Cebu Institute of Technology - University (CIT-U). Prepare to embark on a thrilling coding adventure!
 
 ## About this Repository
 
-This repository is your digital oasis for all things related to Data Structures and Algorithms. Whether you're a budding coder or a seasoned algorithm wizard, you've come to the right place. We're here to make learning fun, challenging, and oh-so-rewarding.
+This repository is mostly related to my Data Structures and Algorithms learnings. Whether you're a budding coder or a seasoned algorithm wizard, you've come to the right place. We're here to make learning fun, challenging, and oh-so-rewarding.
 
 ## What Awaits You
 
