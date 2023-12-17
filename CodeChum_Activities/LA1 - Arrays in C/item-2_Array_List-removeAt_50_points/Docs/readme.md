@@ -1,0 +1,1 @@
+wala koy answer ani mga boss pero pre-coded siya more on add add nalang kag code ngari :>>
