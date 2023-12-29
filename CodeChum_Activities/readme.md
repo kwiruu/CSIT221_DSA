@@ -1,4 +1,4 @@
-![Screenshot 2023-12-29 173458](https://github.com/kwiruu/CSIT221_DSA/assets/146981406/45d0225a-6d97-4214-95f7-a64ef2613930)
+![Screenshot 2023-12-29 173458](https://github.com/kwiruu/CSIT221_DSA/assets/146981406/624e2fdc-1ffb-486d-aca0-f8a2cd993081)
 
 
 # Here Lies The CodeChum Lab Activities
