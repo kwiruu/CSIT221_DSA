@@ -1,3 +1,6 @@
+![Screenshot 2023-12-29 173458](https://github.com/kwiruu/CSIT221_DSA/assets/146981406/45d0225a-6d97-4214-95f7-a64ef2613930)
+
+
 # Here Lies The CodeChum Lab Activities
  Each questions and activities were made by Jay Vince Serato for his ***"CSIT221 - Data Structures and Algorithm"*** subject.
 School Year 2023-2024 Section F2.
